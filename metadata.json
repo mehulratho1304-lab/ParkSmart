@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking System",
+  "description": "A production-ready Smart Parking System featuring real-time slot monitoring, an interactive map, QR code check-in/out, integrated Razorpay-style payments, custom analytics, and admin controls.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
